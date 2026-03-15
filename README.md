@@ -32,3 +32,8 @@ npx expo start --tunnel -c
 
 ### Observação
 Durante os testes, a execução com o comando `npx expo start --tunnel -c` apresentou maior estabilidade no ambiente utilizado, garantindo a correta conexão com o dispositivo móvel via Expo Go.
+
+## Autor
+
+Renato Soares Iauch      
+Projeto desenvolvido para a disciplina **Mobile Development**.
